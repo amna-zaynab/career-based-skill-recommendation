@@ -74,7 +74,7 @@ It combines your knowledge in **AI, Flask, TensorFlow, and Front-End Development
 ---
 
 ## career-based-skill-recommendation/
----
+```
 │
 ├── app.py                    # Flask backend entry point
 ├── training.py               # Script to train LSTM model
@@ -86,8 +86,7 @@ It combines your knowledge in **AI, Flask, TensorFlow, and Front-End Development
 ├── templates/                # (Optional) HTML templates for UI
 │
 └── README.md                 # This file
-
----
+```
 
 ### 📦 Installation
 
