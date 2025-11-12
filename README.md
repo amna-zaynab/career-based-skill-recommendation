@@ -91,12 +91,16 @@ It combines your knowledge in **AI, Flask, TensorFlow, and Front-End Development
 ### 📦 Installation
 
 # Clone the repository
+```
 git clone https://github.com/amna-zaynab/career-based-skill-recommendation.git
 cd career-based-skill-recommendation
-
+```
 # (Optional) Create virtual environment
+```
 python -m venv venv
 source venv/bin/activate     # On Windows: venv\Scripts\activate
-
+```
 # Install dependencies
+```
 pip install -r requirements.txt
+```
