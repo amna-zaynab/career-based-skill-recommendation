@@ -71,6 +71,7 @@ It combines your knowledge in **AI, Flask, TensorFlow, and Front-End Development
 - pip (Python package manager)  
 - Virtual environment (recommended)  
 
+---
 
 ## career-based-skill-recommendation/
 │
